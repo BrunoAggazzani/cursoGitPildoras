@@ -1,3 +1,7 @@
 Esto es un css
 
 Background color azul
+
+letra negrita
+
+color de fuente rojo
